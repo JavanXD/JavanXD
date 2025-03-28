@@ -1,21 +1,8 @@
-### Hi there 👋
+### Welcome! 👋
+
+# Javan Rasokat
+Welcome to my GitHub profile! I'm a 🇩🇪 security nerd. I work as a Application Security Specialist & Security Reseacher at Sage.
+
+You can find below pointers to open-source projects I maintain - feel free to shoot me a DM on [Twitter](https://twitter.com/javanrasokat) or on [Bluesky](https://bsky.app/profile/javanrasokat.bsky.social)!
 
 ![JavanXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavanXD&show_icons=true)
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavanXD&layout=compact)-->
-
-
-<!--
-**JavanXD/JavanXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
